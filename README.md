@@ -1,6 +1,6 @@
 # Hervé Alcé
 
-Data analyst with a **B.A. in Chemistry**, currently completing an **Master of Science, Data Analytics – Data Science** (in progress, expected graduation Dec 2026). Before analytics I worked in chemistry, manufacturing, production management and quality assurance. That's where I learned how organizations actually use data: root-cause investigations, CAPA, nonconformances, process monitoring. I build analyses that end in a decision, not just a chart.
+Data analyst with a **B.A. in Chemistry**, currently completing a **Master of Science, Data Analytics – Data Science** (in progress, expected graduation Dec 2026). Before analytics I worked in chemistry, manufacturing, production management and quality assurance. That's where I learned how organizations actually use data: root-cause investigations, CAPA, nonconformances, process monitoring. I build analyses that end in a decision, not just a chart.
 
 📫 info@hervealce.com · 🌐 [hervealce.com/data](https://www.hervealce.com/data)
 
